@@ -152,8 +152,3 @@ body::before {
 .chat footer .icon {
   font-size: 24px;
 }
-
-/* hover icons */
-.c-hover:hover {
-  color: #8edafc;
-}
